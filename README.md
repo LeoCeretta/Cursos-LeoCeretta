@@ -2,7 +2,7 @@
 
 Página que simula plataforma de cursos online com intuito de explorar funcionalidades do CSS/flexbox
 
-| :placard: Vitrine.Dev |     |
+| :placard: Vitrine.Dev |  https://cursos.alura.com.br/vitrinedev/leoceretta   |
 | -------------  | --- |
 | :sparkles: Nome        | **Cursos LeoCeretta**
 | :label: Tecnologias | html, CSS
